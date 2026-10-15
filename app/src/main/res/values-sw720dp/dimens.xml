@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="disc_size">364dp</dimen>
+    <dimen name="disc_peek">195dp</dimen>
+    <dimen name="disc_wrapper_width">585dp</dimen>
+    <dimen name="disc_wrapper_margin_end">73dp</dimen>
+    <dimen name="disc_corner_radius">182dp</dimen>
+    <dimen name="album_corner_radius">26dp</dimen>
+    <dimen name="album_size">390dp</dimen>
+
+    <dimen name="info_column_width">572dp</dimen>
+    <dimen name="title_text_size">39sp</dimen>
+    <dimen name="artist_text_size">23sp</dimen>
+    <dimen name="source_text_size">18sp</dimen>
+
+    <dimen name="control_button_size">78dp</dimen>
+    <dimen name="play_button_size">99dp</dimen>
+
+    <dimen name="big_clock_text_size">114sp</dimen>
+    <dimen name="big_date_text_size">26sp</dimen>
+</resources>
